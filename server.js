@@ -1,7 +1,7 @@
 {
     "users": [{
         "id": 1,
-        "username": "Mahesh",
+        "username": "Anshu",
         "email": "admin@stockbroker.com",
         "password": "admin123"
     }],
